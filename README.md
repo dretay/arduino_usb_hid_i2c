@@ -6,7 +6,7 @@ Mostly an example sketch from the [Ardunio USB Host Shield](https://github.com/f
 
 ### Building the PB models ###
 
-- `build_models.bat`
--- will generate hid.pb.c and hid.pb.h.
--- note that in hid.options the x/y delta is being capped at a 16 bit signed number to cut down in transmission overhead.
++ `build_models.bat`
+- will generate hid.pb.c and hid.pb.h.
+- note that in hid.options the x/y delta is being capped at a 16 bit signed number to cut down in transmission overhead.
 
